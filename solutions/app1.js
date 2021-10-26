@@ -7,3 +7,5 @@ const setCookie = (value, name = 'token') => {
 };
 
 export default setCookie;
+
+
